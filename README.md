@@ -1,4 +1,6 @@
-## Hi there, im Martin :wave:, I'm an up-and-coming web developer learning HTML, CSS, JavaScript, and C#. I'm focused on building a solid foundation in both front-end and back-end development, constantly exploring new concepts and improving my skills. Every day is a step forward in my journey to becoming a better developer. 🚀
+## Hi there, im Martin :wave:, 
+
+I'm an up-and-coming web developer learning HTML, CSS, JavaScript, and C#. I'm focused on building a solid foundation in both front-end and back-end development, constantly exploring new concepts and improving my skills. Every day is a step forward in my journey to becoming a better developer. 🚀
 
 **Programming Languages**
 ---
