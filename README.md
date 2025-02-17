@@ -10,3 +10,4 @@ I'm an up-and-coming web developer learning HTML, CSS, JavaScript, and C#. I'm f
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
+:seedling: Im currently learning about SQL, EF core & LINQ 
